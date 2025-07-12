@@ -10,23 +10,6 @@ El propósito de este repositorio es proporcionar ejercicios prácticos que perm
 
 Los ejercicios están organizados en carpetas temáticas, donde cada carpeta representa un proyecto o ejercicio específico:
 
-### Ejercicios Disponibles
-
-#### 📁 `adivina-la-palabra`
-Un juego interactivo de adivinanza de palabras que implementa:
-- Manejo de archivos JSON
-- Uso de bibliotecas estándar (`json`, `random`)
-- Lógica de juegos con bucles y condicionales
-- Interacción con el usuario mediante input/output
-- Manipulación de strings y listas
-
-**Conceptos aplicados:**
-- Estructuras de datos (listas, diccionarios)
-- Funciones y modularización del código
-- Manejo de archivos
-- Control de flujo (while, if/else)
-- Operaciones con strings
-
 ## Instrucciones para Estudiantes
 
 1. **Clonar el repositorio:**
