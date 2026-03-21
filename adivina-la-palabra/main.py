@@ -41,7 +41,6 @@ def verify_word(word, user_word):
 def main():
     while True:
         word = get_word()
-        print(word)
         while True:
             word_intent = input(f"Ingrese una palabra de {len(word)} caracteres: ")
             if len(word_intent) != len(word):
